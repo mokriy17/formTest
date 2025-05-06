@@ -37,5 +37,5 @@
 
 1. **Клонируйте репозиторий**:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/mokriy17/formTest.git
    cd your-repo
